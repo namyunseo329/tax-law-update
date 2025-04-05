@@ -1,4 +1,5 @@
-0.0.3
-https://your-download-link.com/taxlaw_0.0.4.exe
-- UI 스타일 전격 개선
-- 오류 수정
+0.1
+https://taxlawsearch.netlify.app/info.html
+- 디자인 일부 수정
+- 대통령령,기획재정부령 하이퍼 링크 기능 구현
+- 법 하이퍼 링크 기능 구현
